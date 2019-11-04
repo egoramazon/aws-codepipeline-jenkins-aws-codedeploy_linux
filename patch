@@ -1,0 +1,20 @@
+From 6044eca68a161dd2511e9fa0f55c342e60407ba6 Mon Sep 17 00:00:00 2001
+From: Egor Moroz <emoroz@amazon.com>
+Date: Mon, 4 Nov 2019 13:29:28 -0800
+Subject: [PATCH] another commit
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index a5f4a90..a8aadb9 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,4 @@
++added some text
++
+ # aws-codepipeline-jenkins-aws-codedeploy_linux
+ Use this sample when creating a four-stage pipeline in AWS CodePipeline while following the Four Stage Pipeline Tutorial. http://docs.aws.amazon.com/codepipeline/latest/userguide/getting-started-4.html
+-
+
